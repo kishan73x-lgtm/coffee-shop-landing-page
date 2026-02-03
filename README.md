@@ -27,6 +27,7 @@ coffee-shop-landing-page/
 │── images/
 │── README.md
 
-Author
 
+Author:
 Kishan PK
+
