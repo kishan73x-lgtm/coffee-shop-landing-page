@@ -4,7 +4,7 @@
 A responsive coffee shop landing page built using HTML, CSS, and JavaScript.
 
  Live Demo
-🔗 https://your-site-name.netlify.app
+🔗 https://kishan-coffee-shop.netlify.app/
 
 Technologies Used
 
@@ -28,4 +28,5 @@ coffee-shop-landing-page/
 │── README.md
 
 Author
+
 Kishan PK
